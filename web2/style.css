@@ -1,0 +1,439 @@
+.carousel-inner {
+  max-height: 537px;
+  img {
+    max-height: 537px;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+.gr-rd{
+    background-image: url(denis-shchigolev-EOdoPXrI46A-unsplash.jpg);
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    position: relative;
+    background-position: center;
+}
+
+.gr-rd-1{
+    background-image: url(andrea-de-santis-pO5WmDGeoYE-unsplash.jpg);
+    height: 300px;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    position: relative;
+    background-position: center;
+}
+
+.gr-rd-2{
+    background-image: url(ruben-valenzuela-I6w7JsiBU9E-unsplash.jpg);
+    height: 300px;
+    width: 260px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    position: relative;
+    background-position: center;
+}
+
+.gr-rg{
+    background-image: url(ewan-yap-wj2FviPq7xM-unsplash.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    width: 400px;
+    position: relative;
+    background-position: center;
+}
+
+.gr-rg-1{
+    background-image: url(jon-tyson-Tf2feQmNfEg-unsplash.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    width: 390px;
+    position: relative;
+    background-position: center;
+}
+
+.gr-rg-2{
+    background-image: url(scott-evans-tnMsCDxPeCw-unsplash.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    width: 390px;position: relative;
+    background-position: center;
+}
+
+.ty{
+    background-color: #eae5c9;
+}
+
+.ne{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+ul{
+    list-style: none;
+}
+.footer-1{
+    width: 25%;
+    padding: 0 20px;
+}
+.footer{
+    padding: 70px;
+    background-color: #24262b;
+}
+.footer-1 h4{
+    font-size: 14px;
+    color: #C850C0;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.footer-1 ul li a{
+    font-size: 15px;
+    text-transform: capitalize;
+    text-decoration: none;
+    color: #fff;
+    display: block;
+}
+.section-2{
+    display: flex;
+    justify-content: center;
+    
+}
+.footer-1 li a:hover{
+    color: #C850C0;
+    padding-left: 15px;
+}
+.section-3{
+    display: flex;
+    justify-content: center;
+}
+
+.footer-1 h4 a{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: #C850C0;
+    margin: 0 10px 10px 0;
+}
+
+.suu:hover{
+    padding-top: 10px;
+}
+
+h2{
+    display: inline-block;
+    background: linear-gradient(#c0392b,#8e44ad);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.wed-bg{
+    background-image: url(./bergreen-photography-06.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-position: center;
+    height: 500px;
+}
+
+.ind-bg{
+    background-image: url(ross-sneddon-pmB6osSdj7k-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-position: center;
+    height: 500px;
+}
+
+.out-bg{
+    background-image: url(nathan-dumlao-w5hhoYM_JsU-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-position: center;
+    height: 500px;
+}
+
+.abt-img{
+    background-image: url(harold-wijnholds-2K_0EuxNhNA-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-position: center;
+    height: 500px;
+}
+
+.i1{
+    background-image: url(ewan-yap-wj2FviPq7xM-unsplash.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    position: relative;
+    background-position: center;
+}
+
+.i2{
+    background-image: url(./bergreen-photography-06.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    position: relative;
+    background-position: center;
+}
+
+.i3{
+    background-image: url(./denis-shchigolev-EOdoPXrI46A-unsplash.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    position: relative;
+    background-position: center;
+}
+
+.i4{
+    background-image: url(./dibakar-roy-VM2L_gQrBeQ-unsplash.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    position: relative;
+    background-position: center;
+}
+
+.i5{
+    background-image: url(./harold-wijnholds-2K_0EuxNhNA-unsplash.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    position: relative;
+    background-position: center;
+}
+
+.i6{
+    background-image: url(./jimmy-woo-_Uvj5mjEDNI-unsplash.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    position: relative;
+    background-position: center;
+}
+
+.i7{
+    background-image: url(./jon-tyson-Tf2feQmNfEg-unsplash.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    position: relative;
+    background-position: center;
+}
+
+.i8{
+    background-image: url(./mei-ling-mirow-8Pst3MpPZnM-unsplash.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    position: relative;
+    background-position: center;
+}
+
+.i9{
+    background-image: url(./nathan-dumlao-w5hhoYM_JsU-unsplash.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    position: relative;
+    background-position: center;
+}
+
+.i10{
+    background-image: url(./rafael-hoyos-weht-4FpoT7dILos-unsplash.jpg);
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    position: relative;
+    background-position: center;
+}
+
+.carousel-item{
+    height: 100vh;
+    min-height: 330px;
+}
+.carousel-caption{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    bottom: 300px;
+    z-index: 2;
+}
+
+.carousel-caption h5{
+    font-size: 45px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 15px;
+}
+
+.carousel-caption p{
+    width: 50%;
+    margin: auto;
+    font-size: 18px;
+    line-height: 1.7;
+}
+
+.carousel-inner::before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgb(0,0,0,0.7);
+    z-index: 1;
+}
+
+.sig{
+    border: 1px solid black;
+    background-image: linear-gradient(#eae5c9,#6cc6cb);
+}
+
+.inpu-1{
+    border-radius: 8px;
+    border: 1px solid black;
+}
+
+.btn-sg{
+    background-image: none;
+    background: none;
+    border: 2px solid black;
+    border-radius: 15px;
+    font-size: 15px;
+
+}
+
+.btn-3{
+    background-image: linear-gradient(#eae5c9,#6cc6cb);
+    text-decoration: none;
+    color: black;
+    border-radius: 13px;
+}
+
+.carousel-caption a:hover{
+    color: white;
+}
+
+
+
+
+@media only screen and (max-width: 767px){
+    .carousel-caption{
+        bottom: 125px;
+    }
+    .carousel-caption h5{
+        font-size: 17px;
+    }
+    .carousel-caption a{
+        padding: 15px 15px;
+    }
+    .footer-1{
+        width: 55%;
+        margin-bottom: 30px;
+    }
+    .aside{
+        height: 100px;
+        width: 100px;
+    }
+    .carousel-item{
+        height: 100vh;
+        min-height: 330px;
+   }
+   
+}
+
+
+.rd-crl{
+    width: 300px;
+    height: 300px;
+    /* background-color: red; */
+   
+}
+.clr-round{
+    border-radius: 50%;
+    /* padding-left: 25px; */
+    position: relative;
+    overflow: hidden;
+}
+.clr-round img{
+    object-fit: cover;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.search{
+    display: inline-flex;
+    align-items: center;
+    background-image: #c22957;
+    padding: 5px;
+    border-radius: 4px;
+    border: none;
+}
+
+.search:is(input,button){
+    background: transparent;
+    color: inherit;
+    border: none;
+    
+}
+
+.searchinput{
+    width: 0;
+    transition: width 0.2s;
+}
+
+.searchbutton{
+    display: grid;
+    place-items: center;
+    width: 25px;
+    height: 25px;
+    cursor:pointer;
+    transition: color 0.1s;
+    background: none;
+    border: none;
+}
+
+.searchbutton:hover{
+    color: #e3e3e3;
+}
+
+.search:focus-within input{
+    width: 200px;
+}
+
+::placeholder search{
+    font: inherit;
+    color: #e3e3e3;
+}
+
+.navbar-nav{
+    margin-left: auto;
+}
